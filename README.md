@@ -5,4 +5,4 @@
 
 Avec un tel nom de domaine, il est surement possible qu'un petit génie québécois (ou autre) viennent à avoir une bonne idée (start-up, service, application web, etc).
 
-wow@checkez.ca
+Contact: [wow@checkez.ca](mailto:wow@checkez.ca)
